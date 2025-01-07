@@ -1,4 +1,4 @@
-# MiniMina
+# MiniMina (MiNi)
 
 **Powering Liquidity for the Memecoin Ecosystem on the Minima Blockchain**  
 
