@@ -1,4 +1,4 @@
-#**Mini Mina: Powering Liquidity for the Memecoin Ecosystem on the Minima Blockchain**  
+##**Mini Mina: Powering Liquidity for the Memecoin Ecosystem on the Minima Blockchain**  
 
 In the dynamic world of cryptocurrencies, **Mini Mina** emerges as a pivotal player, designed to unify and empower the **memecoin ecosystem** on the **Minima blockchain**. By acting as the central liquidity hub, Mini Mina ensures seamless integration, scalability, and a robust foundation for all memecoins on the Minima network.  
 
@@ -25,9 +25,5 @@ Built on Minima’s **decentralized and efficient architecture**, Mini Mina unlo
 ### **Join the Mini Mina Movement**  
 Mini Mina is more than just a meme coin; it’s the backbone of liquidity for the entire Minima blockchain memecoin ecosystem. Whether you're a developer launching a new token, a trader seeking efficiency, or a community member looking to participate, Mini Mina is your gateway to a unified and thriving ecosystem.  
 
-**Get involved and stay updated:**  
-- **Website:** [Official Mini Mina Site]  
-- **Community:** [Join our Telegram/Discord]  
-- **Social Media:** Follow us for the latest updates  
 
 **Mini Mina**—fueling the future of memecoins on Minima.
